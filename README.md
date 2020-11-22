@@ -1,3 +1,4 @@
 # base_api_sample
 phpを利用してBASE APIから商品情報の商品IDと在庫数を取得し、JavaScript上で処理できるようにしたサンプルコードです。
+/baseWrappingApi/admin/updatecode.php をキックすることで、BASE APIの認証コードを更新し、auth フォルダ配下にTXTファイル形式で配置することが可能です。
 /base_api_sample/baseWrappingApi/auth/setting.ini の値をそれぞれのBASE API用の値に置き換えてご利用ください。
